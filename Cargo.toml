@@ -2,6 +2,7 @@
 name = "rust_chapter_04"
 version = "0.1.0"
 edition = "2021"
+authors = ["Leonardo Tosetto", "<leonardo.a.tosetto@gmail.com>"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
